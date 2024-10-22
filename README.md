@@ -27,4 +27,4 @@ A simple **calculator** application built using **Python** and **Tkinter** for t
    python calculator.py
    ```
 ## Author
-Created by [Shivani](https://github.com/shi-va-ni-singh) 	&#9829
+Created by [Shivani](https://github.com/shi-va-ni-singh)

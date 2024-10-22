@@ -26,9 +26,5 @@ A simple **calculator** application built using **Python** and **Tkinter** for t
    ```bash
    python calculator.py
    ```
-
-## Screenshot
-![Calculator Screenshot](./screenshot.png)
-
 ## Author
-Created by [Shivani](https://github.com/shi-va-ni-singh)
+Created by [Shivani](https://github.com/shi-va-ni-singh) 	&#9829
